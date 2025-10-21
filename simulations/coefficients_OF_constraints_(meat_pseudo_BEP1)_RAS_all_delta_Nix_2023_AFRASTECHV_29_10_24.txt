@@ -1,0 +1,189 @@
+model_component#parameter#unit#group#type#final_value
+Forage constraint#Forage yield#ton/ha#forage#Forage: grassland over five / permanent grassland#34.6667
+Forage constraint#Forage yield#ton/ha#forage#Forage: grassland under five / temporary grassland#48.5000
+Forage constraint#Forage yield#ton/ha#forage#Rough grazing#27.0000
+Labour constraint#SLR#hours/head#animal#Animal: Beef cattle#26.0000
+Labour constraint#SLR#hours/head#animal#Animal: Dairy cow#42.0000
+Labour constraint#SLR#hours/head#animal#Animal: Sheep#3.7250
+Labour constraint#SLR#hours/ha#crop#Barley#18.0000
+Labour constraint#SLR#hours/ha#crop#Beans#16.0000
+Labour constraint#SLR#hours/ha#crop#Field vegetables#280.0000
+Labour constraint#SLR#hours/ha#crop#fodder-crops-root-crops-forage-crops-and-all-other-crops-for-stockfeeding_and_Maize#6.0000
+Labour constraint#SLR#hours/ha#crop#Oats#18.0000
+Labour constraint#SLR#hours/ha#crop#OSR#16.0000
+Labour constraint#SLR#hours/ha#crop#Other cereals (triticale)#18.0000
+Labour constraint#SLR#hours/ha#crop#Peas#16.0000
+Labour constraint#SLR#hours/ha#crop#Potatoes#110.0000
+Labour constraint#SLR#hours/ha#crop#Sugar beet#33.0000
+Labour constraint#SLR#hours/ha#crop#Top and soft fruit#425.0000
+Labour constraint#SLR#hours/ha#crop#Wheat#18.0000
+Labour constraint#SLR#hours/ha#forage#Forage: grassland over five / permanent grassland#3.1000
+Labour constraint#SLR#hours/ha#forage#Forage: grassland under five / temporary grassland#3.1000
+Labour constraint#SLR#hours/ha#forage#Rough grazing#1.5000
+Labour constraint#SLR#hours/ha#RAS#RAS#39.5833
+Labour constraint#SLR#hours/ha#tree#tree#213.9500
+OF#Animal rearing cost#£/head#animal#Animal: Beef cattle#216.5000
+OF#Animal rearing cost#£/head#animal#Animal: Dairy cow#770.5000
+OF#Animal rearing cost#£/head#animal#Animal: Sheep#29.4000
+OF#Forage cost#£/ha#forage#Forage: grassland over five / permanent grassland#214.6667
+OF#Forage cost#£/ha#forage#Forage: grassland under five / temporary grassland#439.0000
+OF#Forage cost#£/ha#forage#Rough grazing#128.0000
+OF#Forage cost, animal POV#£/head#animal#Animal: Beef cattle#130.7500
+OF#Forage cost, animal POV#£/head#animal#Animal: Dairy cow#178.7500
+OF#Forage cost, animal POV#£/head#animal#Animal: Sheep#11.4000
+OF#GM#£/ha#crop#Barley#856.7500
+OF#GM#£/ha#crop#Beans#621.0200
+OF#GM#£/ha#crop#Field vegetables#1392.2746
+OF#GM#£/ha#crop#fodder-crops-root-crops-forage-crops-and-all-other-crops-for-stockfeeding_and_Maize#775.0482
+OF#GM#£/ha#crop#Oats#771.7500
+OF#GM#£/ha#crop#OSR#802.5000
+OF#GM#£/ha#crop#Other cereals (triticale)#588.0000
+OF#GM#£/ha#crop#Peas#827.2000
+OF#GM#£/ha#crop#Potatoes#5091.8000
+OF#GM#£/ha#crop#Sugar beet#1649.0000
+OF#GM#£/ha#crop#Top and soft fruit#5741.3125
+OF#GM#£/ha#crop#Wheat#956.4800
+OF#GM with forage cost#£/head#animal#Animal: Beef cattle#183.1667
+OF#GM with forage cost#£/head#animal#Animal: Dairy cow#1224.3750
+OF#GM with forage cost#£/head#animal#Animal: Sheep#34.4000
+OF#GM without forage cost#£/head#animal#Animal: Beef cattle#313.8333
+OF#GM without forage cost#£/head#animal#Animal: Dairy cow#1403.0000
+OF#GM without forage cost#£/head#animal#Animal: Sheep#45.4000
+OF#GM#£/ha#RAS#RAS#755185.1841
+OF#GM#£/ha#RAS#RAS_ex_lab_cost#2450780.9815
+OF#GM#£/ha#RAS#RAS_ex_energy_cost#1091143.6008
+OF#GM#£/ha#RAS#RAS_ex_lab_ex_energy_cost#2786739.3981
+OF#GM#£/ha#tree#tree#400.0000
+OF#Revenue#£/head#animal#Animal: Beef cattle#530.4167
+OF#Revenue#£/head#animal#Animal: Dairy cow#2173.3750
+OF#Revenue#£/head#animal#Animal: Sheep#75.2000
+OF#Revenue#£/ha#crop#Barley#1321.7500
+OF#Revenue#£/ha#crop#Beans#997.3100
+OF#Revenue#£/ha#crop#Field vegetables#6458.2668
+OF#Revenue#£/ha#crop#fodder-crops-root-crops-forage-crops-and-all-other-crops-for-stockfeeding_and_Maize#1235.0482
+OF#Revenue#£/ha#crop#Oats#1193.7500
+OF#Revenue#£/ha#crop#OSR#1256.5000
+OF#Revenue#£/ha#crop#Other cereals (triticale)#969.0000
+OF#Revenue#£/ha#crop#Peas#1233.7000
+OF#Revenue#£/ha#crop#Potatoes#9108.0000
+OF#Revenue#£/ha#crop#Sugar beet#2888.0000
+OF#Revenue#£/ha#crop#Top and soft fruit#47243.7500
+OF#Revenue#£/ha#crop#Wheat#1597.0400
+OF#Revenue#£/ha#RAS#RAS#5888332.3114
+OF#Revenue#£/ha#tree#tree#10950.0000
+OF#Price#£/ton#crop#Barley#188.2500
+OF#Price#£/ha#crop#Beans#244.1800
+OF#Price#£/ha#crop#Field vegetables#508.7367
+OF#Price#£/ha#crop#fodder-crops-root-crops-forage-crops-and-all-other-crops-for-stockfeeding_and_Maize#33.3797
+OF#Price#£/ha#crop#Oats#179.6000
+OF#Price#£/ha#crop#OSR#435.0000
+OF#Price#£/ha#crop#Other cereals (triticale)#185.0000
+OF#Price#£/ha#crop#Peas#319.7092
+OF#Price#£/ha#crop#Potatoes#210.0000
+OF#Price#£/ha#crop#Sugar beet#37.5000
+OF#Price#£/ha#crop#Top and soft fruit#3179.3750
+OF#Price#£/ha#crop#Wheat#205.0600
+OF#Price#£/ha#animal#Animal: Beef cattle#2.3667
+OF#Price#£/litre#animal#Animal: Dairy cow#0.3855
+OF#Price#£/ha#animal#Animal: Sheep#104.4000
+OF#Price#£/ha#RAS#RAS#888.9391
+OF#Yield#£/ton#crop#Barley#6.0875
+OF#Yield#ton/ha#crop#Beans#4.0880
+OF#Yield#ton/ha#crop#Field vegetables#11.0000
+OF#Yield#ton/ha#crop#fodder-crops-root-crops-forage-crops-and-all-other-crops-for-stockfeeding_and_Maize#37.0000
+OF#Yield#ton/ha#crop#Oats#5.7650
+OF#Yield#ton/ha#crop#OSR#2.8900
+OF#Yield#ton/ha#crop#Other cereals (triticale)#4.5000
+OF#Yield#ton/ha#crop#Peas#3.8800
+OF#Yield#ton/ha#crop#Potatoes#45.2000
+OF#Yield#ton/ha#crop#Sugar beet#77.0000
+OF#Yield#ton/ha#crop#Top and soft fruit#28.0625
+OF#Yield#ton/ha#crop#Wheat#7.1340
+OF#Yield#ton/head#animal#Animal: Beef cattle#472.3333
+OF#Yield#litre/head#animal#Animal: Dairy cow#5918.7500
+OF#Yield#ton/head#animal#Animal: Sheep#1.1426
+OF#Yield#kg/ha#RAS#RAS#220231.4400
+OF#Variable cost#£/ton#crop#Barley#465.2500
+OF#Variable cost#£/ha#crop#Beans#376.7600
+OF#Variable cost#£/ha#crop#Field vegetables#4926.2564
+OF#Variable cost#£/ha#crop#fodder-crops-root-crops-forage-crops-and-all-other-crops-for-stockfeeding_and_Maize#460.0000
+OF#Variable cost#£/ha#crop#Oats#422.9000
+OF#Variable cost#£/ha#crop#OSR#453.5000
+OF#Variable cost#£/ha#crop#Other cereals (triticale)#381.0000
+OF#Variable cost#£/ha#crop#Peas#406.5000
+OF#Variable cost#£/ha#crop#Potatoes#4016.2000
+OF#Variable cost#£/ha#crop#Sugar beet#1238.0000
+OF#Variable cost#£/ha#crop#Top and soft fruit#41502.4375
+OF#Variable cost#£/ha#crop#Wheat#640.5600
+OF#Variable cost#£/ha#animal#Animal: Beef cattle#216.5000
+OF#Variable cost#£/ha#animal#Animal: Dairy cow#770.5000
+OF#Variable cost#£/ha#animal#Animal: Sheep#29.4000
+OF#Variable cost#£/ha#RAS#RAS#5133147.1273
+OF#Variable cost#£/ha#RAS#RAS_oplab#706498.2489
+OF#Variable cost#£/ha#RAS#RAS_mglab#989097.5484
+OF#Variable cost#£/ha#tree#tree#981.4268
+OF#Output adjustment#£/ha#animal#Animal: Beef cattle#-542.3333
+OF#Output adjustment#£/ha#animal#Animal: Dairy cow#-56.3750
+OF#Output adjustment#£/ha#animal#Animal: Sheep#-41.4380
+OF#Revenue error correction#£/ton#crop#Barley#176.0281
+OF#Revenue error correction#£/ha#crop#Beans#-0.4278
+OF#Revenue error correction#£/ha#crop#Field vegetables#722.4276
+OF#Revenue error correction#£/ha#crop#fodder-crops-root-crops-forage-crops-and-all-other-crops-for-stockfeeding_and_Maize#0.0000
+OF#Revenue error correction#£/ha#crop#Oats#159.2560
+OF#Revenue error correction#£/ha#crop#OSR#-1.1500
+OF#Revenue error correction#£/ha#crop#Other cereals (triticale)#136.5000
+OF#Revenue error correction#£/ha#crop#Peas#-6.7717
+OF#Revenue error correction#£/ha#crop#Potatoes#-384.0000
+OF#Revenue error correction#£/ha#crop#Sugar beet#-0.5000
+OF#Revenue error correction#£/ha#crop#Top and soft fruit#-41977.4609
+OF#Revenue error correction#£/ha#crop#Wheat#134.1420
+OF#Revenue error correction#£/ha#animal#Animal: Beef cattle#-230.9813
+OF#Revenue error correction#£/ha#animal#Animal: Dairy cow#-108.3031
+OF#Revenue error correction#£/ha#animal#Animal: Sheep#0.0000
+OF#GM error correction#£/ton#crop#Barley#0.2500
+OF#GM error correction#£/ha#crop#Beans#0.4700
+OF#GM error correction#£/ha#crop#Field vegetables#-139.7358
+OF#GM error correction#£/ha#crop#fodder-crops-root-crops-forage-crops-and-all-other-crops-for-stockfeeding_and_Maize#0.0000
+OF#GM error correction#£/ha#crop#Oats#0.9000
+OF#GM error correction#£/ha#crop#OSR#-0.5000
+OF#GM error correction#£/ha#crop#Other cereals (triticale)#0.0000
+OF#GM error correction#£/ha#crop#Peas#0.0000
+OF#GM error correction#£/ha#crop#Potatoes#0.0000
+OF#GM error correction#£/ha#crop#Sugar beet#-1.0000
+OF#GM error correction#£/ha#crop#Top and soft fruit#0.0000
+OF#GM error correction#£/ha#crop#Wheat#0.0000
+OF#GM error correction#£/ha#animal#Animal: Beef cattle#0.0000
+OF#GM error correction#£/ha#animal#Animal: Dairy cow#0.0000
+OF#GM error correction#£/ha#animal#Animal: Sheep#0.0000
+Calories constraint#Calories#kcal/ha#crop#Barley#21915000.0000
+Calories constraint#Calories#kcal/ha#crop#Beans#10045000.0000
+Calories constraint#Calories#kcal/ha#crop#Field vegetables#3520000.0000
+Calories constraint#Calories#kcal/ha#crop#fodder-crops-root-crops-forage-crops-and-all-other-crops-for-stockfeeding_and_Maize#0.0000
+Calories constraint#Calories#kcal/ha#crop#Oats#25217000.0000
+Calories constraint#Calories#kcal/ha#crop#OSR#25981100.0000
+Calories constraint#Calories#kcal/ha#crop#Other cereals (triticale)#0.0000
+Calories constraint#Calories#kcal/ha#crop#Peas#11514000.0000
+Calories constraint#Calories#kcal/ha#crop#Potatoes#72200000.0000
+Calories constraint#Calories#kcal/ha#crop#Sugar beet#27720000.0000
+Calories constraint#Calories#kcal/ha#crop#Top and soft fruit#35724000.0000
+Calories constraint#Calories#kcal/ha#crop#Wheat#26634666.6667
+Calories constraint#Calories#kcal/head#animal#Animal: Beef cattle#961600.0000
+Calories constraint#Calories#kcal/head#animal#Animal: Dairy cow#3449536.5559
+Calories constraint#Calories#kcal/head#animal#Animal: Sheep#73553.3333
+Calories constraint#Calories#kcal/ha#RAS#RAS#125927083.3333
+Water constraint#Water#m3/ha#crop#Barley#12.2333
+Water constraint#Water#m3/ha#crop#Beans#862.6500
+Water constraint#Water#m3/ha#crop#Field vegetables#234.6667
+Water constraint#Water#m3/ha#crop#fodder-crops-root-crops-forage-crops-and-all-other-crops-for-stockfeeding_and_Maize#3200.0000
+Water constraint#Water#m3/ha#crop#Oats#23.6000
+Water constraint#Water#m3/ha#crop#OSR#645.3000
+Water constraint#Water#m3/ha#crop#Other cereals (triticale)#395.0000
+Water constraint#Water#m3/ha#crop#Peas#4.0000
+Water constraint#Water#m3/ha#crop#Potatoes#675.0000
+Water constraint#Water#m3/ha#crop#Sugar beet#390.0000
+Water constraint#Water#m3/ha#crop#Top and soft fruit#1912.5000
+Water constraint#Water#m3/ha#crop#Wheat#7.3500
+Water constraint#Water#m3/head#animal#Animal: Beef cattle#116.5940
+Water constraint#Water#m3/head#animal#Animal: Dairy cow#128.6732
+Water constraint#Water#m3/head#animal#Animal: Sheep#13.2422
+Water constraint#Water#m3/ha#RAS#RAS#69022.8000

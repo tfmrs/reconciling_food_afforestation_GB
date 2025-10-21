@@ -1,0 +1,26 @@
+group#type#value#unit#capacity associated
+AD#AD electricity output#4161000.00#kWh#500 kW
+AD#AD methane output#1194735.00#kWh#500 kW
+AD#AD CAPEX#2900000.00#£#500 kW
+AD#AD O&M#72500.00#£/year#500 kW
+AD#CHP O&M#70737.00#£/year#500 kW
+AD#total AD OPEX#143237.00#£/year#500 kW
+AD#Electricity production revenue, received by producer#0.26#£/kWh#500 kW
+AD#AD lifetime#10.00#years#500 kW
+AD#SLR#2176.67#£/AD/year#500 kW
+AD#Area occupied#1.00#hectare#500 kW
+AD#Heat pipe CAPEX annuity#0.01#£/kWh#NA
+AD#Electricity wire cost#0.00#£/kWh#NA
+Price#Retail electricity price, paid by consumer#0.07#£/kW#NA
+Price#Retail electricity price, paid by the non-HH consumer#0.22#£/kWh#NA
+Price#Wholesale electricity price, received by the producer#0.20#£/kWh#NA
+Price#Retail gas price, paid by the non-HH consumer#0.07#£/kWh#NA
+Price#Wholesale gas price, received by the producer#0.05#£/kWh#NA
+Price#Smart export guarantee tariff#0.04#£/kWh#NA
+RAS#Electricity consumption per unit#46368.00#kWh/unit#NA
+RAS#RAS CAPEX#185612.98#£/unit#NA
+RAS#RAS lifetime#10.00#years#NA
+RAS#RAS GM with energy cost ignored#-28355.71#£/unit#NA
+RAS#RAS GM with energy and labour cost ignored#23025.98#£/unit#NA
+RAS#Waste heat energy cost#0.25346#£/kWh#NA
+AD#Water consumption AD#343731.888#m3/AD#NA
