@@ -1,0 +1,2 @@
+"delta"#"alpha"#"irate"#"pchitin"#"pplj"#"pfeed"#"psalt"#"root_directory"
+0.49316#0.3#0.04#12#50#2.4#0.984#"D:/Pesquisa/Pesquisa_2024/Sustainable_Prawn/Emulation_2025/simulations/"
