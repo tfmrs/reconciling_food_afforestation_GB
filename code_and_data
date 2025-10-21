@@ -1,0 +1,2 @@
+This is the full code, subdivided in multiple matlab modules, for running a simulation of the partial equilibrium model. I also contains all required data (in txt files).
+In order to run a simulation, download this folder to your computer, rename it as simulations, and run one of the R Scripts in the "R_codes" folder.
